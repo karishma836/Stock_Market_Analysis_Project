@@ -84,6 +84,7 @@ PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share r
 ![Screenshot 2024-09-04 183254](https://github.com/user-attachments/assets/9268a1b3-7ef9-4fcc-97ae-d0ef3050088e)
 
 
+
 ## Step 1: Remove Blank And Null values
 
 1] I cleaned the data in Excel before importing it to PowerBI, I explored the data to find any inconsistencies, duplicates, incorrect format, or missing values. I’ll share some of the inconsistencies and incorrect format I found and I corrected them.
@@ -97,49 +98,69 @@ https://github.com/karishma836/Stock_Market_Analysis_Project/blob/main/strock_ma
 
 # KPI1
 Query: Calculate the average number of shares traded daily within a specified year.
+
 Explanation: This tells us how actively stocks are being traded on average each year during a particular period, giving an indication of market liquidity.
 Most Volatile Stocks
 
 
-![Screenshot 2024-09-04 183515](https://github.com/user-attachments/assets/e33325b4-5047-4f5d-b105-caee04bf0212)
+![Screenshot 2024-09-04 183438](https://github.com/user-attachments/assets/8793bcd2-05d2-4b99-90e5-3935eed25c59)
 
 
 # KPI2
 Query: Identify stocks with the highest Beta values, indicating higher sensitivity to market movements.
+
 Explanation: Beta measures how closely a stock's price correlates with the overall market's movements. Stocks with high Beta values tend to be more volatile, meaning their prices fluctuate more in response to market changes.
 
 
-![Screenshot 2024-09-04 183553](https://github.com/user-attachments/assets/c8b8c2b6-762e-4f10-985b-9627a3a1accd)
+![Screenshot 2024-09-04 183515](https://github.com/user-attachments/assets/fb43449a-37d9-4b8d-a3ec-6af1ebf2b685)
 
 # KPI3
 Query: Find stocks with the highest and lowest dividend amounts.
+
 Explanation: Dividends are payments made by companies to shareholders. This helps us identify companies that distribute more of their profits to shareholders through dividends, or those that reinvest earnings back into the company for growth.
 
-![Screenshot 2024-09-04 183643](https://github.com/user-attachments/assets/39c5027a-304c-490b-85da-d1aa8f14e870)
 
+![Screenshot 2024-09-04 183553](https://github.com/user-attachments/assets/d5f82033-4faa-4cb3-9c3b-b6a9527a4104)
 
 # KPI4
 
 Query: Determine stocks with the highest and lowest Price-to-Earnings ratios.
+
 Explanation: The P/E ratio compares a company's stock price to its earnings per share. A high P/E ratio suggests investors expect higher earnings growth, while a low ratio may indicate the stock is undervalued.
 
-![Screenshot 2024-09-04 183812](https://github.com/user-attachments/assets/0103b74d-7ec1-4627-a63d-6577b609a626)
+
+![Screenshot 2024-09-04 183643](https://github.com/user-attachments/assets/33fa0ec4-86ca-4282-8cbf-64a975119728)
 
 
 # KPI5
 
 Query: Identify stocks trading close to their 52-week high and low prices.
+
 Explanation: These queries help identify stocks that are either near their highest or lowest prices over the past year. This information can be used to gauge recent performance and potential future movements.
 
-![Screenshot 2024-09-04 183933](https://github.com/user-attachments/assets/f6f8d12d-7ce9-4d92-97c0-30988c8b73b2)
+
+![Screenshot 2024-09-04 183812](https://github.com/user-attachments/assets/303b65fd-6c82-4d45-a6fd-52b21b6aea8e)
 
 # KPI6
 
+Query: Find companies with the largest market Cap.
+
+Explanation: Market cap reflects a company's total market value. Stocks with the highest market caps are typically more stable and liquid but may offer fewer growth opportunities compared to smaller companies.
+
+
+![Screenshot 2024-09-04 183933](https://github.com/user-attachments/assets/ee95cb30-4de7-4e32-be00-36938985c4b9)
+
+
+# KPI7
+
 Query: Use MACD and RSI indicators to identify stocks with potential buying or selling signals.
+
 Explanation: MACD and RSI are technical indicators used to analyze stock price movements. A strong buy signal indicates a potential buying opportunity, while a strong sell signal suggests it may be time to sell or short the stock.
 By presenting these insights, you can provide a comprehensive overview of the stock market performance of select major companies, aiding in informed decision-making for stock purchases, sales, or holdings
 
-![Screenshot 2024-09-04 184019](https://github.com/user-attachments/assets/e0b7e3b1-cc1a-4759-a8a6-df7ac4ca9c68)
+![Screenshot 2024-09-04 184019](https://github.com/user-attachments/assets/bcfd2883-d85b-4b41-83cb-5167c8f6d889)
+
+
 
 # Dashboard
 
