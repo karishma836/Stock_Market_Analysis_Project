@@ -12,7 +12,7 @@ The primary objective of this dataset is to provide insights into the stock mark
 
 ## Description of Our source Data:
 
-I sourced the stock market data from reliable financial databases. The data included daily trading volumes, stock prices, dividends, P/E ratios, market capitalization, and other relevant financial metrics.
+I sourced the stock market data from reliable financial databases at AI Vairent. The data included daily trading volumes, stock prices, dividends, P/E ratios, market capitalization, and other relevant financial metrics.
 
 ## Questions we hope to answer with our data:
 
@@ -90,6 +90,7 @@ PE Ratio: The price-to-earnings ratio, a measure of the price paid for a share r
 
 ## My SQL Queries
 Link to Olist store Schema
+https://github.com/karishma836/Stock_Market_Analysis_Project/blob/main/strock_market_SQL.sql
 
 
 # Creating Data Visualizations
