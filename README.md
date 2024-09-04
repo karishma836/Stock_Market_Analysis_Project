@@ -96,35 +96,48 @@ https://github.com/karishma836/Stock_Market_Analysis_Project/blob/main/strock_ma
 # Creating Data Visualizations
 
 # KPI1
-Now to find the Payment values for weekend vs weekday ,Firstly duplicated the purchase timestamp transform to days of the week and renamed to purchase days.Now I created a custom column for purchase days used if else formula . And to verify if it is working, I m represented this KPI in Donut chart of weekname and Payment values
+Query: Calculate the average number of shares traded daily within a specified year.
+Explanation: This tells us how actively stocks are being traded on average each year during a particular period, giving an indication of market liquidity.
+Most Volatile Stocks
+
 
 ![Screenshot 2024-09-04 183515](https://github.com/user-attachments/assets/e33325b4-5047-4f5d-b105-caee04bf0212)
 
 
 # KPI2
-There are 4 types of payment types, and since orders of review score of 5 are asked, I selected a Waterfall chart for this KPI.
+Query: Identify stocks with the highest Beta values, indicating higher sensitivity to market movements.
+Explanation: Beta measures how closely a stock's price correlates with the overall market's movements. Stocks with high Beta values tend to be more volatile, meaning their prices fluctuate more in response to market changes.
 
 
 ![Screenshot 2024-09-04 183553](https://github.com/user-attachments/assets/c8b8c2b6-762e-4f10-985b-9627a3a1accd)
 
 # KPI3
-To show this KPI I simply created a gauge chart, now to provide more insights for product category and Average days taken to deliver
+Query: Find stocks with the highest and lowest dividend amounts.
+Explanation: Dividends are payments made by companies to shareholders. This helps us identify companies that distribute more of their profits to shareholders through dividends, or those that reinvest earnings back into the company for growth.
 
 ![Screenshot 2024-09-04 183643](https://github.com/user-attachments/assets/39c5027a-304c-490b-85da-d1aa8f14e870)
 
 
 # KPI4
-Represented this KPI with the help of Stacked column bar chart and analysed that the Average payment is high compared to Avg price for Sao paulo city
+
+Query: Determine stocks with the highest and lowest Price-to-Earnings ratios.
+Explanation: The P/E ratio compares a company's stock price to its earnings per share. A high P/E ratio suggests investors expect higher earnings growth, while a low ratio may indicate the stock is undervalued.
 
 ![Screenshot 2024-09-04 183812](https://github.com/user-attachments/assets/0103b74d-7ec1-4627-a63d-6577b609a626)
 
 
 # KPI5
-Represented this KPI with the help of Area chart with the visualization that shipping days is more for review score 1. As the number of Shipping days to deliver the orders increases the review score decreases.
+
+Query: Identify stocks trading close to their 52-week high and low prices.
+Explanation: These queries help identify stocks that are either near their highest or lowest prices over the past year. This information can be used to gauge recent performance and potential future movements.
 
 ![Screenshot 2024-09-04 183933](https://github.com/user-attachments/assets/f6f8d12d-7ce9-4d92-97c0-30988c8b73b2)
 
-# KPI5
+# KPI6
+
+Query: Use MACD and RSI indicators to identify stocks with potential buying or selling signals.
+Explanation: MACD and RSI are technical indicators used to analyze stock price movements. A strong buy signal indicates a potential buying opportunity, while a strong sell signal suggests it may be time to sell or short the stock.
+By presenting these insights, you can provide a comprehensive overview of the stock market performance of select major companies, aiding in informed decision-making for stock purchases, sales, or holdings
 
 ![Screenshot 2024-09-04 184019](https://github.com/user-attachments/assets/e0b7e3b1-cc1a-4759-a8a6-df7ac4ca9c68)
 
@@ -140,3 +153,5 @@ Represented this KPI with the help of Area chart with the visualization that shi
 ![Screenshot 2024-08-28 220207](https://github.com/user-attachments/assets/78f83101-51eb-4a8f-b1b5-81bc4aaa992a)
 
 ## Excel Dashboard
+
+![Screenshot 2024-09-04 185122](https://github.com/user-attachments/assets/7ea34746-b37a-4427-a39a-536119b10519)
