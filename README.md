@@ -35,7 +35,7 @@ with this Data we hope to Answer 8 different KPI's
 8] Stocks with Strong Buy Signals and stocks with Strong Selling Signal ?
 
 
-## The description of these tables is as follows:
+## The description of these tables column as follows:
 
 Date: The date of the stock data entry.
 
